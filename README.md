@@ -1,2 +1,2 @@
-# Sensfrx-PHP-SDK-Fraud-Prevention
+# Sensfrx PHP SDK Fraud Prevention
 
