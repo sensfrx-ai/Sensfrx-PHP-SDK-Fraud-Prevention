@@ -1,0 +1,19 @@
+{
+    "name": "sensfrx-ai/sensfrx-php-sdk-fraud-prevention",
+    "description": "A PHP SDK for integrating Sensfrx, a comprehensive fraud prevention solution. This SDK provides easy access to Sensfrx's fraud detection and risk scoring APIs, enabling developers to protect web and mobile applications from account takeovers, transaction fraud, new account fraud, and bot attacks.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "SensfrxAi\\SensfrxPhpSdkFraudPrevention\\": "src/Sensfrx/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sensfrx.ai",
+            "email": "info@sensfrx.ai"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
